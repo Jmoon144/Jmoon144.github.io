@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+title: Home
+description: "Welcome to my website."
+--
