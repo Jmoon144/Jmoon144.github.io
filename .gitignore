@@ -3,3 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+comment system.md
+markdown guide.md
+positing guide.md
+visitor counter.md
+post-01.md
