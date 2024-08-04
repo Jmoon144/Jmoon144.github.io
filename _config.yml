@@ -19,6 +19,7 @@ linkedin_username: jun-yeong
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
 baseurl:
+encoding: "utf-8"
 
 # Build settings
 plugins:
