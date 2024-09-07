@@ -2,7 +2,7 @@ var baseurl = document.querySelector('meta[name="baseurl"]').content;
 
 document.addEventListener("DOMContentLoaded", function () {
   // Init theme
-  let currentTheme = localStorage.getItem("theme");
+  let currentTheme = localStorage.getItem("theme") || "dark";
   let isDarkMode = true;
 
   if (currentTheme === "dark") {
