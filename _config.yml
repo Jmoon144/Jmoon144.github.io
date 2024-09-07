@@ -9,10 +9,10 @@ github_username: Jmoon144
 linkedin_username: jun-yeong
 
 # External API
-# giscus_repo: "byanko55/jekyll-theme-satellite"
-# giscus_repoId: "R_kgDOJ6fqWg"
-# giscus_category: "Q&A"
-# giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
+giscus_repo: "Jmoon144/Jmoon144.github.io"
+giscus_repoId: "R_kgDOJ6fqWg"
+giscus_category: "Announcements"
+giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
 # goatcounter_code: Jmoon144
 # google_analytics:
 
