@@ -83,7 +83,7 @@ const resizeFile = (file: File, imgFileResizer: ImgFileResizer) =>
 
 이미지를 쉽게 리사이징 할 수 있도록 저는 FileUploadInput이라는 커스텀 컴포넌트를 프로젝트에 추가해, 이미지를 자동으로 리사이징하고 S3에 업로드할 수 있도록 했습니다.
 
-FileUploadInput은 TypeScript 기반으로 작성되었으며, imgFileResizer라는 옵션을 통해 리사이징 설정을 커스터마이즈할 수 있습니다. 이 컴포넌트는 이미지를 업로드할 때 리사이징을 자동으로 처리하여 S3 Presigned URL을 통해 최적화된 이미지를 S3에 업로드합니다.
+FileUploadInput은 TypeScript 기반으로 작성되었으며, imgFileResizer라는 옵션을 통해 리사이징 설정을 커스터마이즈할 수 있습니다. 이 컴포넌트는 이미지를 업로드할 때 리사이징을 자동으로 처리하여 S3 Presigned URL을 통해 최적화된 이미지를 S3에 업로드합니다.ads
 
 ### 실제 예시
 
